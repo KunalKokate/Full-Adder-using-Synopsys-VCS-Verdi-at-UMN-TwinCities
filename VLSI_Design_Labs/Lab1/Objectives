@@ -1,0 +1,4 @@
+Objectives: 
+1. To study and understand the dataflow, behavioral and structural Verilog model for a full
+adder, and compile and synthesize the same using the Synopsys VCS and Verdi.
+2. To compile and simulate a 4-bit adder and verify its operation using a Verilog testbench
